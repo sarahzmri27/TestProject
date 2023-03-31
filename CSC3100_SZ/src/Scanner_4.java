@@ -13,7 +13,7 @@ public class Scanner_4{
 		int sum = lessThan10*tens*hundreds;
 		
         System.out.println("The multiplication of all digits is "+ sum);
-	//Nur Sarah `Zzati
+	    //Nur Sarah `Zzati
         //212642
         //Lab2
 	}
